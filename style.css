@@ -60,11 +60,13 @@ header{
        display: flex;
     flex-direction: column;
     align-items: center;
-    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdybH4O8m7a2Xew_mu_W8BemrpKSw22bGQ5HNWVsidlAJmFizDtHm1IprTot3xdbfDK2E&usqp=CAU');
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdEoQwOQdWkeXkRF2VM7dwHW9ZEpCDjY4zKg&usqp=CAU');
     background-size: cover;
     color: #fff;
     padding: 40px;
     height: 400px;
+  
+
 
 }
 .imgProjetsscol{
